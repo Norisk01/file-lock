@@ -1,0 +1,9 @@
+{
+  "name": "file-lock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bytenode": "^1.5.3",
+    "express": "^4.18.2"
+  }
+}
